@@ -1,8 +1,10 @@
 
+
 #include <iostream>
 
 using namespace std;
 
+//	Class which shows use of initialization list.
 class Test
 {
 	int& i;
@@ -19,6 +21,7 @@ public:
 	}
 };
 
+//	main function
 int main()
 {
 	int r = 10;
